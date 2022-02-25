@@ -1,1 +1,5 @@
 Muniaraja Murugan
+AI/ML MS Course
+Understanding Exploratory Data Analysis using AI/ML algorithms
+Learnt Python Basics and now learning advanced concepts in Python Programming
+Git and GitHub I am very much familiar already
